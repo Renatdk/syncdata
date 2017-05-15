@@ -1,0 +1,76 @@
+{
+    "dataset":{
+        "url":"https://www.quandl.com/api/v3/datasets/",
+        "api_key":"jysWSiJqGehJJRF4jJcX",
+        "start_date":"2017-04-01",
+        "end_date":"2018-12-31",
+        "column_names":[
+            "Name",
+            "Source",
+            "Code",
+            "Need Position"
+        ],
+        "data":[
+            [
+                "ICE Brent Crude Oil Futures",
+                "BrentOil",
+                "CHRIS/ICE_B1",
+                "4"
+            ],
+            [
+                "Gold, London A.M. Fixing",
+                "Gold",
+                "LBMA/GOLD",
+                "2"
+            ],
+            [
+                "Silver, London fixing, USD equivalent",
+                "Silver",
+                "LBMA/SILVER",
+                "1"
+            ],
+            [
+                "Aluminum, LME",
+                "Aluminum",
+                "LME/PR_AL",
+                "4"
+            ],
+            [
+                "Copper, LME",
+                "Copper",
+                "LME/PR_CU",
+                "4"
+            ],
+            [
+                "Nickel, LME",
+                "Nickel",
+                "LME/PR_NI",
+                "4"
+            ],
+            [
+                "Tin, LME",
+                "Tin",
+                "LME/PR_TN",
+                "4"
+            ],
+            [
+                "Lead, LME",
+                "Lead",
+                "LME/PR_PB",
+                "4"
+            ],
+            [   
+                "Steel Billet, LME",
+                "Steel",
+                "LME/PR_FM",
+                "4"
+            ],
+            [
+                "Zinc, LME",
+                "Zinc",
+                "LME/PR_ZI",
+                "4"
+            ]
+        ]
+    }
+}
